@@ -1,0 +1,20 @@
+# The new players will get this rank
+default-rank-id: "user"
+
+# The chat format, for example:
+# {rank} {WHITE}{player}: {GRAY}{message}
+# Developer Sergittos: hi
+chat-format: "{BOLD}{rank}{RESET} {WHITE}{player}: {GRAY}{message}"
+
+# The nametag format, for example:
+# {level} {rank} {WHITE}{player}
+# 10 Developer Sergittos
+nametag-format: "{rank} {YELLOW}{player}"
+
+# Just the mysql credentials
+mysql-credentials:
+  hostname: "127.0.0.1"
+  username: "root"
+  password: ""
+  database: "ranks"
+  port: 3306

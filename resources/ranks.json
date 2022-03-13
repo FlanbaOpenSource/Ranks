@@ -1,0 +1,92 @@
+[
+  {
+    "id": "flanba",
+    "name": "Team Flanba",
+    "color": "{YELLOW}",
+    "permissions": []
+  },
+  {
+    "id": "developer",
+    "name": "Developer",
+    "color": "{DARK_PURPLE}",
+    "permissions": []
+  },
+  {
+    "id": "administrator",
+    "name": "Administrator",
+    "color": "{RED}",
+    "permissions": []
+  },
+  {
+    "id": "senior_moderator",
+    "name": "Senior Moderator",
+    "color": "{DARK_AQUA}",
+    "permissions": []
+  },
+  {
+    "id": "moderator",
+    "name": "Moderator",
+    "color": "{AQUA}",
+    "permissions": []
+  },
+  {
+    "id": "helper",
+    "name": "Helper",
+    "color": "{GREEN}",
+    "permissions": []
+  },
+  {
+    "id": "builder",
+    "name": "Builder",
+    "color": "{LIGHT_PURPLE}",
+    "permissions": []
+  },
+  {
+    "id": "designer",
+    "name": "Designer",
+    "color": "{GOLD}",
+    "permissions": []
+  },
+  {
+    "id": "youtuber",
+    "name": "YouTuber",
+    "color": "{RED}",
+    "permissions": []
+  },
+  {
+    "id": "flanba_partner",
+    "name": "Flanba Partner",
+    "color": "{LIGHT_RED}",
+    "permissions": []
+  },
+  {
+    "id": "booster",
+    "name": "Booster",
+    "color": "{LIGHT_PURPLE}",
+    "permissions": []
+  },
+  {
+    "id": "mythic",
+    "name": "Mythic",
+    "color": "{DARK_PURPLE}",
+    "permissions": []
+  },
+  {
+    "id": "legend",
+    "name": "Legend",
+    "color": "{BLUE}",
+    "permissions": []
+  },
+  {
+    "id": "elite",
+    "name": "Elite",
+    "color": "{DARK_GREEN}",
+    "permissions": []
+  },
+  {
+    "id": "user",
+    "name": "User",
+    "color": "{GRAY}",
+    "permissions": []
+  }
+]
